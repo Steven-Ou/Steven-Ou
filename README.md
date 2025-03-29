@@ -65,7 +65,7 @@
 
   <div style="flex: 1; padding: 10px; border: 1px solid #ccc; margin-right: 10px;">
     <h4>Total Contributions</h4>
-    <p>Contributions data here (fetch via GitHub API or GitHub stats service)</p>
+    <p>Contributions data here ![Total Contributions](https://github-readme-stats.vercel.app/api?username=Steven-Ou&show_icons=true&hide_title=true)</p>
   </div>
 
   <div style="flex: 1; padding: 10px; border: 1px solid #ccc; margin-right: 10px;">
