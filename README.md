@@ -59,8 +59,29 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40"/>
 </p>
 
-## Pronouns: He/Him
+## 📊 GitHub Stats
 
+<div style="display: flex; justify-content: space-between;">
+
+  <div style="flex: 1; padding: 10px; border: 1px solid #ccc; margin-right: 10px;">
+    <h4>Total Contributions</h4>
+    <p>Contributions data here (fetch via GitHub API or GitHub stats service)</p>
+  </div>
+
+  <div style="flex: 1; padding: 10px; border: 1px solid #ccc; margin-right: 10px;">
+    <h4>Current Streak</h4>
+    <p>Current streak info here</p>
+  </div>
+
+  <div style="flex: 1; padding: 10px; border: 1px solid #ccc;">
+    <h4>Longest Streak</h4>
+    <p>Longest streak info with the date and month</p>
+  </div>
+</div>
+
+## 🧑‍💻 Most Used Languages
+
+![Top Languages](https://your-generated-pie-chart-link.png)
 <!--
 **Steven-Ou/Steven-Ou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
