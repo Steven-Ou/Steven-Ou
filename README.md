@@ -70,10 +70,17 @@
 </div>
 
 ## 🧑‍💻 Most Used Languages
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steven-Ou&layout=compact&theme=radical" width="48%" alt="Top Languages"/> 
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Steven-Ou&theme=radical" width="32%" alt="Repo Language Distribution"/>     
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Steven-Ou&theme=radical" width="32%" alt="Most Committed Language"/> 
-</p>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 300px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steven-Ou&layout=compact&theme=radical" width="100%" alt="Top Languages"/>
+    </div>
+    <div style="flex: 1; min-width: 300px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Steven-Ou&theme=radical" width="100%" alt="Repo Language Distribution"/>
+    </div>
+    <div style="flex: 1; min-width: 300px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Steven-Ou&theme=radical" width="100%" alt="Most Committed Language"/>
+    </div>
+</div>
 <!--
 **Steven-Ou/Steven-Ou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
