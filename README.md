@@ -1,6 +1,8 @@
 ## About Me 👋
 
-<ul></ul>
+<ul>CS @ Queens College </ul>
+<a href =""><img src=""></a>
+
 
 ## 🚀 Tech Stack  
 
