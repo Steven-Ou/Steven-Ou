@@ -67,11 +67,6 @@
     <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Steven-Ou&show_icons=true&theme=radical" width="48%" alt="GitHub Stats"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Steven-Ou&theme=radical" width="48%" alt="GitHub Streak"/> </p>
   </div>
 
-
-  <div style="flex: 1; padding: 10px; border: 1px solid #ccc;">
-    <h4>Longest Streak</h4>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Steven-Ou&theme=radical" width="32%" alt="Longest Streak"/> </p>
-  </div>
 </div>
 
 ## 🧑‍💻 Most Used Languages
