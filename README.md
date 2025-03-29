@@ -69,7 +69,7 @@
 
 </div>
 
-## 🧑‍💻 Most Used Languages
+## 🧑‍💻 Most Used
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steven-Ou&layout=compact&theme=radical" width="30%" alt="Top Languages"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Steven-Ou&theme=radical" width="30%" alt="Repo Language Distribution"/>
