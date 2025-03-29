@@ -70,8 +70,9 @@
 </div>
 
 ## 🧑‍💻 Most Used Languages
-
-![Top Languages](https://your-generated-pie-chart-link.png)
+<p align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steven-Ou&layout=compact&theme=radical" width="48%" alt="Top Languages"/> 
+</p>
 <!--
 **Steven-Ou/Steven-Ou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
