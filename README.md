@@ -1,7 +1,7 @@
 ## About Me 👋
 
-<ul>CS @ Queens College </ul>
 <p align="left">
+    <ul>CS @ Queens College </ul>
   <a href="mailto:osteve425@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
