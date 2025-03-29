@@ -74,7 +74,7 @@
 
   <div style="flex: 1; padding: 10px; border: 1px solid #ccc;">
     <h4>Longest Streak</h4>
-    <p>Longest streak info with the date and month</p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Steven-Ou&theme=radical" width="32%" alt="Longest Streak"/> </p>
   </div>
 </div>
 
