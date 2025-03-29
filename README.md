@@ -62,7 +62,7 @@
 ## 📊 GitHub Stats
 
 <div style="display: flex; justify-content: space-between;">
-
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Steven-Ou=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   <div style="flex: 1; padding: 10px; border: 1px solid #ccc; margin-right: 10px;">
     <h4>Total Contributions</h4>
     <p>Contributions data here ![Total Contributions](https://github-readme-stats.vercel.app/api?username=Steven-Ou&show_icons=true&hide_title=true)</p>
