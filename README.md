@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/steven-ou-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
+  <a href="https://github.com/Steven-Ou" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
   </a>
 
