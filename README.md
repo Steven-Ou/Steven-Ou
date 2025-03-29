@@ -1,5 +1,7 @@
 ## Hi there 👋
-## Achievement: 
+## Achievements 🏆: 
+- 🎯 Completed **100+ commits** in this project.
+- 🚀 Successfully deployed the project on **GitHub Pages**.
 ## Pronouns: He/Him
 <!--
 **Steven-Ou/Steven-Ou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
