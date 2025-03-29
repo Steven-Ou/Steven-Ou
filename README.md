@@ -70,7 +70,7 @@
 </div>
 
 ## 🧑‍💻 Most Used Languages
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+<div style="display: flex; flex-direction: row; align-items: center; gap: 20px;">
     <div style="width: 60%;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steven-Ou&layout=compact&theme=radical" width="100%" alt="Top Languages"/>
     </div>
