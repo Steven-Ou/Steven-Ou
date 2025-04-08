@@ -62,6 +62,8 @@
 ### 📊 GitHub Stats
 <!-- GitHub Streak -->
 ![Steven's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Steven-Ou&show_icons=true&theme=transparent)
+<!-- Most used languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Steven-Ou&layout=donut&show_icons=true&theme=transparent)](https://github.com/NotJerwee/github-readme-stats)
 
 
 ## 🧑‍💻 Most Used
