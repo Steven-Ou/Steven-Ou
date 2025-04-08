@@ -61,7 +61,7 @@
 
 ### 📊 GitHub Stats
 <div style = "display:flex">
-<div>
+<div style="flex:1">
 <!-- GitHub Streak -->
 ![Steven's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Steven-Ou&show_icons=true&theme=transparent)
 </div>
