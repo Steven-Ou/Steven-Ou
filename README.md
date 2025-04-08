@@ -59,16 +59,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40"/>
 </p>
 
-### 📊 GitHub Stats
-<div style = "display:flex">
-<div style="flex:1">
-<!-- GitHub Streak -->
-![Steven's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Steven-Ou&show_icons=true&theme=transparent)
-</div>
-<div style = "flex:1">
-<!-- Most used languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Steven-Ou&layout=donut&show_icons=true&theme=transparent)](https://github.com/NotJerwee/github-readme-stats)
-</div>
+## 📊 GitHub Stats
 
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; padding: 10px; border: 1px solid #ccc; margin-right: 10px;">
+    <h4>Total Contributions</h4>
+    <p align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=Steven-Ou&show_icons=true&theme=radical" width="48%" alt="GitHub Stats"/> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Steven-Ou&theme=radical" width="48%" alt="GitHub Streak"/> </p>
+  </div>
 
 </div>
+
+## 🧑‍💻 Most Used
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steven-Ou&layout=compact&theme=radical" width="30%" alt="Top Languages"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Steven-Ou&theme=radical" width="30%" alt="Repo Language Distribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Steven-Ou&theme=radical" width="30%" alt="Most Committed Language"/>
+</p>
+
+
