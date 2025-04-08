@@ -59,9 +59,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40"/>
 </p>
 
-## 📊 GitHub Stats
-
-
+### 📊 GitHub Stats
+<!-- GitHub Streak -->
 ![Steven's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Steven-Ou&show_icons=true&theme=transparent)
 
 
