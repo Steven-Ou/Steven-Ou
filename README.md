@@ -64,10 +64,10 @@
 <table align="center">
   <tr>
     <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Steven-Ou&theme=radical&hide=jupyter%20notebook,TeX,SCSS" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Steven-Ou&theme=radical&hide=jupyter%20notebook,TeX,SCSS" width="100%" />
     </td>
     <td width="50%" align="center" style="border: none;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Steven-Ou&theme=radical" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Steven-Ou&show_icons=true&theme=radical&rank_icon=github" width="100%" />
     </td>
   </tr>
 </table>
