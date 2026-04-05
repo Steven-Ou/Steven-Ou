@@ -42,7 +42,7 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,electron,tailwind,bootstrap" />
 </p>
 
-🔥 Databases & Cloud
+### 🔥 Databases & Cloud
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase,docker" />
 </p>
@@ -51,7 +51,7 @@
   <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,linux,vercel,workers" />
 </p>
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; padding: 10px; border: 1px solid #ccc; margin-right: 10px;">
