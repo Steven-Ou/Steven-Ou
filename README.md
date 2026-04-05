@@ -61,11 +61,10 @@
 
 ### 🧑‍💻 Top Languages
 
-
 <table align="center">
   <tr>
     <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=Steven-Ou&theme=radical&layout=compact&hide=jupyter%20notebook,swift,cpp,python&langs_count=2&card_width=400" alt="Most Used Languages" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Steven-Ou&theme=radical&layout=compact&hide=jupyter%20notebook,swift,cpp,python&langs_count=2" alt="Most Used Languages" />
     </td>
     <td width="50%" align="center" style="border: none;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Steven-Ou&theme=radical&exclude=jupyter%20notebook,swift,cpp,python" alt="Language Donut Chart" />
