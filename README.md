@@ -46,6 +46,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase,docker" />
 </p>
+
 ### ⚙️ Developer Tools & Platforms 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,linux,vercel,workers" />
@@ -63,7 +64,7 @@
 
 </div>
 
-## 🧑‍💻 Most Used
+### 🧑‍💻 Most Used
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steven-Ou&layout=compact&theme=radical" width="30%" alt="Top Languages"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Steven-Ou&theme=radical" width="30%" alt="Repo Language Distribution"/>
