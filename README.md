@@ -64,5 +64,5 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Steven-Ou&theme=radical&hide=jupyter%20notebook,TeX,SCSS&layout=compact" width="48.5%" />
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Steven-Ou&show_icons=true&theme=radical&rank_icon=github" width="48.5%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Steven-Ou&show_icons=true&theme=radical&layout=compact" width="48.5%" />
 </p>
