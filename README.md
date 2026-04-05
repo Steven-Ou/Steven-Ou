@@ -55,14 +55,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Steven-Ou&show_icons=true&theme=radical&rank_icon=github" width="48%" alt="Steven's GitHub Stats"/>
+  <img src="https://github-readme-stats-one-eight.vercel.app/api?username=Steven-Ou&show_icons=true&theme=radical" width="48%" alt="Steven's GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Steven-Ou&theme=radical" width="48%" alt="GitHub Streak"/>
 </p>
 
 ### 🧑‍💻 Languages & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steven-Ou&layout=compact&theme=radical&hide_border=false" width="45%" alt="Top Languages"/>
+  <img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=Steven-Ou&layout=compact&theme=radical" width="48%" alt="Top Languages"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Steven-Ou&theme=radical" width="45%" alt="Commit Distribution"/>
 </p>
 
