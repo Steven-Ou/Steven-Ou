@@ -29,7 +29,8 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
-## 🚀 Tech Stack  
+
+### 🚀 Tech Stack  
 
 ### 💻 Programming Languages  
 <p align="left">
