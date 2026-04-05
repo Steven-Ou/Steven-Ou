@@ -62,7 +62,6 @@
 ### 🧑‍💻 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Steven-Ou&layout=compact&theme=radical&hide=jupyter%20notebook,TeX,SCSS" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Steven-Ou&theme=radical" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Steven-Ou&theme=radical&hide=jupyter%20notebook,TeX,SCSS" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Steven-Ou&theme=radical" width="48%" />
 </p>
-
