@@ -1,7 +1,24 @@
-## About Me 👋
+## 🧑‍💻 About Me & Experience
 
+**CS Student @ Queens College** (Class of 2027) 🎓  
+*Building scalable tools and exploring the intersection of Security and Software Engineering.*
 
-  - CS @ Queens College
+---
+
+### 💼 Professional Journey
+* **Post-Quantum Cryptography Intern** | *CUNY Spring Forward* (Researching secure encryption)
+* **Web Development & TA** | *Honey Art Academy* (Teaching & Building internal tools)
+* **Incoming Software Engineering Intern** | *MedElite* (Summer 2026)
+
+### 🏆 Featured Project: [YT-Link](https://github.com/Steven-Ou/yt-link)
+**Tech Stack:** Python, Electron, Flask, NumPy
+* **Performance:** Implemented a multi-threaded job queue and resource-caching logic to minimize CPU/Memory usage during concurrent downloads.
+* **Architecture:** Bridged a Flask backend with an Electron frontend for a seamless cross-platform desktop experience.
+
+---
+
+### 📫 Connect with me:
+<p align="left">
   <a href="mailto:osteve425@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
@@ -11,10 +28,7 @@
   <a href="https://github.com/Steven-Ou" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
   </a>
-
-
-
-
+</p>
 ## 🚀 Tech Stack  
 
 ### 💻 Programming Languages  
