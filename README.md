@@ -65,10 +65,10 @@
 <table align="center">
   <tr>
     <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Steven-Ou&theme=radical&layout=compact&hide=jupyter%20notebook,swift,cpp,python&langs_count=2" alt="Most Used Languages" />
+      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Steven-Ou&theme=radical&layout=compact&hide=jupyter%20notebook,swift,cpp,python&langs_count=2" alt="Most Used Languages" />
     </td>
     <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Steven-Ou&theme=radical&layout=donut&hide=jupyter%20notebook,swift,cpp,python" alt="Language Donut Chart" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Steven-Ou&theme=radical" alt="Language Donut Chart" />
     </td>
   </tr>
 </table>
