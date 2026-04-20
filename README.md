@@ -56,7 +56,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Steven-Ou&show_icons=true&theme=radical" width="48%" alt="Steven's GitHub Stats"/>
-  <img src="https://camo.githubusercontent.com/fa248f090cf3a2cd1dd9390a6ddd2411d785b5db54968d7446d9dc5efff0dd08/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d53746576656e2d4f75267468656d653d7261646963616c" width="48%" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Steven-Ou&theme=radical"/>
 </p>
 
 ### 🧑‍💻 Top Languages
