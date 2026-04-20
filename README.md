@@ -56,7 +56,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Steven-Ou&show_icons=true&theme=radical" width="48%" alt="Steven's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Steven-Ou&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Steven-Ou&theme=radical" width="48%" alt ="Steven's Github Streaks/>
 </p>
 
 ### 🧑‍💻 Top Languages
