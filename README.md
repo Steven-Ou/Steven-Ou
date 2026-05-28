@@ -8,7 +8,6 @@
 ### 💼 Professional Journey
 * **Post-Quantum Cryptography Intern** | *CUNY Spring Forward* (Researching secure encryption)
 * **Web Development & TA** | *Honey Art Academy* (Teaching & Building internal tools)
-* **Incoming Software Engineering Intern** | *MedElite* (Summer 2026)
 
 ### 🏆 Featured Project: [YT-Link](https://github.com/Steven-Ou/yt-link)
 **Tech Stack:** Python, Electron, Flask, NumPy
