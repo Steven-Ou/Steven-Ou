@@ -4,31 +4,50 @@
 
 <br/>
 
-<table width="100%" style="border: 1px solid #30363D; border-collapse: collapse; background-color: #0D1117;">
+<table width="100%" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 12px; padding: 10px;">
   <tr>
-    <td width="50%" valign="top" style="padding: 20px; border-right: 1px solid #30363D;">
-      <h2 align="center">🔬 Research & Focus</h2>
-      <h3 align="center">Post-Quantum Cryptography Intern</h3>
-      <p align="center"><i>CUNY Spring Forward</i></p>
-      <ul>
-        <li>Researched post-quantum cryptography methods and presented key findings to peers and faculty.</li>
-        <li>Integrated quantum machine learning (QML) concepts with neural networks in proof-of-concept applications.</li>
-      </ul>
-    </td>
     <td width="50%" valign="top" style="padding: 20px;">
-      <h2 align="center">🚀 Featured Projects</h2>
+      <h2 align="center">👨‍💻 Core Directive</h2>
+      <blockquote>
+        <i>Building scalable tools and exploring the intersection of Security, Data, and Software Engineering.</i>
+      </blockquote>
       
-      <h3>🌿 Herb-AI (Clinical RAG & Vision Agent)</h3>
+      <h3 align="center">🔬 Research Experience</h3>
       <ul>
-        <li>Architected an end-to-end platform using React/Next.js and FastAPI, integrating a Supabase PostgreSQL database.</li>
-        <li>Implemented a local Retrieval-Augmented Generation (RAG) engine via ChromaDB with a multi-tiered LLM cascade.</li>
+        <li><b>Post-Quantum Cryptography Intern</b><br><i>CUNY Spring Forward</i> (Secure encryption & QML research)</li>
       </ul>
 
-      <h3>🎬 YT-Link (Desktop App)</h3>
+      <h3 align="center">🏆 Featured Deployments</h3>
+      <b><a href="https://github.com/Steven-Ou/Herb-AI">🌿 Herb-AI (Clinical RAG & Vision Agent)</a></b>
       <ul>
-        <li>Architected a cross-platform desktop app using Electron, integrating a React/Next.js frontend with a Python (Flask) microservice backend.</li>
-        <li>Engineered a multi-threaded Python job queue to handle concurrent conversions.</li>
+        <li><b>Stack:</b> React/Next.js, FastAPI, YOLO, ChromaDB</li>
+        <li><b>Architecture:</b> End-to-end multimodal pipeline with a local RAG engine and dynamic LLM query caching.</li>
       </ul>
+      
+      <br>
+
+      <b><a href="https://github.com/Steven-Ou/yt-link">🎬 YT-Link</a></b>
+      <ul>
+        <li><b>Stack:</b> Python, Electron, Flask, NumPy</li>
+        <li><b>Architecture:</b> Multi-threaded job queue bridging a Flask microservice with an Electron frontend for seamless cross-platform UX.</li>
+      </ul>
+    </td>
+    
+    <td width="50%" valign="top" style="padding: 20px; border-left: 1px solid #30363D;">
+      <h2 align="center">🚀 Tech Stack</h2>
+      <br>
+      <p align="center"><b>Languages</b><br>
+        <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,c,html,css" />
+      </p>
+      <p align="center"><b>Frameworks</b><br>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,electron,tailwind" />
+      </p>
+      <p align="center"><b>Database & Cloud</b><br>
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase,docker" />
+      </p>
+      <p align="center"><b>Tools</b><br>
+        <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,linux,vercel,workers" />
+      </p>
     </td>
   </tr>
 </table>
@@ -37,20 +56,21 @@
 
 <h2 align="center">📊 System Metrics</h2>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Steven-Ou&theme=tokyonight" width="48%" alt="Steven's GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=Steven-Ou&theme=tokyonight&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=ffffff&border=30363D" width="48%" alt ="Steven's Github Streaks"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Steven-Ou&theme=tokyonight" width="48%" alt="Most Used Languages" />
-</p>
+<table width="100%" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 12px;">
+  <tr>
+    <td align="center" style="padding: 20px; border: none;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Steven-Ou&theme=tokyonight" width="48%" alt="Steven's GitHub Stats"/>
+      <img src="https://streak-stats.demolab.com?user=Steven-Ou&theme=tokyonight&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=ffffff&border=30363D" width="48%" alt ="Steven's Github Streaks"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 10px; border: none;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Steven-Ou&theme=tokyonight" width="48%" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
 
 <br/>
-
-<h2 align="center">⚙️ Tech Stack</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,c,html,css,react,nextjs,nodejs,express,flask,electron,tailwind,mysql,postgres,mongodb,firebase,supabase,docker,vscode,git,github,postman,linux,vercel&perline=12" />
-</p>
 
 <p align="center">
   <a href="mailto:osteve425@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
